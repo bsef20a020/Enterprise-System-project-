@@ -29,7 +29,7 @@ Worklytics is a productivity analytics tool built with Ruby on Rails and Postgre
   - Progress vs goal (bar chart)
   - Weekly productivity trends
 
-### 🔐 Admin Features
+###  Admin Features
 - Role-based access (admin/user)
 - View all users and their logs
 - Search, filter, and export reports as CSV
