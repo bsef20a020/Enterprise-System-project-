@@ -38,6 +38,6 @@ Worklytics is a productivity analytics tool built with Ruby on Rails and Postgre
 ---
 ###  Task Status 
 
-Completed: Authentication, basic dashboard, models, UI
-Pending: time calculations, grouped charts, CSV export, seed data
+-Completed: Authentication, basic dashboard, models, UI
+-Pending: time calculations, grouped charts, CSV export, seed data
 
